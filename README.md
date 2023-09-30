@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Luis Morais
 
-Atualmente estou cursando em Técnico em Informática para Internet😁
+Atualmente estou cursando Técnico em Informática para Internet😁
 
 ## Estou estudando📚
 

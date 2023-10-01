@@ -24,7 +24,3 @@ Atualmente estou cursando Técnico em Informática para Internet😁
 <div>
 <a href = "mailto:luissfernando472@gmail.com@luismorais"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
 </div>
-
-<br><p align="center"></p><a href=""><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=300&duration=3000&pause=&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Visitors+Count%3A" alt="Typing SVG" /></a><br>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BPaulloCruz%7D/count.svg" /></p> 
-<br>

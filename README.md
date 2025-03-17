@@ -1,32 +1,5 @@
 <h1 align="center">Hi there, I'm Luis Morais 👋</h1>
 
-## GitHub Statistics 📈
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4 align="center">GitHub Stats</h4>
-      <a href="https://github.com/luismoraiss">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=luismoraiss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <h4 align="center">Streak Stats</h4>
-      <a href="https://github.com/luismoraiss">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luismoraiss&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-<table>
-    <tr>
-    <td valign="top" width="1050px">
-      <h4 align="center">GitHub Profile Summary</h4>
-      <a href="https://github.com/luismoraiss">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luismoraiss&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 ## Skills 🛠

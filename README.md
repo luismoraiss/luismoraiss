@@ -1,27 +1,60 @@
-# 👋 Hello! Welcome to my Github profile.
+<h1 align="center">Hi there, I'm Luis Morais 👋</h1>
+
+## GitHub Statistics 📈
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">GitHub Stats</h4>
+      <a href="https://github.com/luismoraiss">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=luismoraiss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">Streak Stats</h4>
+      <a href="https://github.com/luismoraiss">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luismoraiss&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+    <tr>
+    <td valign="top" width="1050px">
+      <h4 align="center">GitHub Profile Summary</h4>
+      <a href="https://github.com/luismoraiss">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luismoraiss&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-<br>
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=d0d0d0&center=false&vCenter=false&width=435&lines=My+name+is+Luis Morais;i'm+from+Brazil;:)" alt="Typing SVG" /></a> <br><br>
+## Skills 🛠
+<div align="center">
+  <!-- Icons -->
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-<h3>Atualmente estou cursando Técnico em Informática para Internet😁</h3>
-<br>
-<h2>Studying in this moment📚</h2>
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-
-          
-          
-
-<div>
-<a href="https://github.com/luismoraiss">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismoraiss&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luismoraiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## Extra-Skills + 
+<div align="center">
+  <!-- Icons -->
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 
-<h2>Contact me</h2>
 
-<div>
-<a href = "mailto:luissfernando472@gmail.com@luismorais"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
-</div>
+
+
+
+

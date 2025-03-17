@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Luis Morais 👋</h1>
 
-A
+
 
 ## Skills 🛠
 <div align="center">

@@ -6,10 +6,33 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luismoraiss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=luismoraiss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## GitHub Statistics 📈
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">GitHub Stats</h4>
+      <a href="https://github.com/luismoraiss">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=luismoraiss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">Streak Stats</h4>
+      <a href="https://github.com/luismoraiss">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luismoraiss&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+    <tr>
+    <td valign="top" width="1050px">
+      <h4 align="center">GitHub Profile Summary</h4>
+      <a href="https://github.com/joseook">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseook&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 

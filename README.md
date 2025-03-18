@@ -1,4 +1,4 @@
-<h3 align="left">Luis Morais</h3>
+## Luis Morais
 
 ###
 
@@ -27,11 +27,11 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+### Skills
 
 ###
 
-<p align="left">Markup Languages and Stylesheets</p>
+#### Markup Languages and Stylesheets
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Programming Languages</p>
+#### Programming Languages
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left">Libraries and Frameworks</p>
+#### Libraries and Frameworks
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<p align="left">Databases</p>
+#### Databases
 
 ###
 
@@ -83,7 +83,7 @@
 
 ###
 
-<p align="left">Extra-Skills +</p>
+#### Extra-Skills
 
 ###
 

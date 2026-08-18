@@ -4,18 +4,6 @@
 
 <p align="left">My name is Luis. I've been a web developer for 3 years.</p>
 
-###
-
-## GitHub Statistics 📈
-<table>
-  <tr>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luismoraiss&theme=midnight_purple" />
-  </tr>
-</table>
-<table>
-
-###
-
 ### Skills
 
 ###

@@ -37,5 +37,5 @@
 
 ###
 
-
+<img src="https://streak-stats.demolab.com?user=luismoraiss&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=5" />
 
